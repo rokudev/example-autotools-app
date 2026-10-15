@@ -1,3 +1,11 @@
+# example-autotools-app has moved to GitLab
+
+**This project has moved.** Development now continues at **https://gitlab.com/rokudev/example-autotools-app**.
+
+This GitHub repository is archived and read-only. It is kept only as a pointer to the new home. Please open new issues and merge requests on GitLab.
+
+---
+
 # Example Autotools Application
 
 This one uses the example Autotool's lib and CMake lib as dependencies to create: `buzz_aldrin`
